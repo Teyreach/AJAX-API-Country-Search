@@ -1,2 +1,2 @@
-# zadanie12_6
-https://teyreach.github.io/zadanie12_6/
+# AJAX-API-Country-Search
+https://teyreach.github.io/AJAX-API-Country-Search/
